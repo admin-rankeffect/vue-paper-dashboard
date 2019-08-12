@@ -23,8 +23,8 @@ const routes = [
         component: Dashboard
       },
       {
-        path: "stats",
-        name: "stats",
+        path: "profile",
+        name: "profile",
         component: UserProfile
       },
       {
